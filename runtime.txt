@@ -1,1 +1,2 @@
 python-3.11.4
+https://gist.github.com/elseof/5d6a45da32cf2c74a936e0343b4e1484
